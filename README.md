@@ -7,7 +7,7 @@
 
 - E-mail : **shivansh123tiwari@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/9lrwih](https://rb.gy/9lrwih)
+- Resume :  [https://rb.gy/9lrwih](https://rb.gy/9lrwih)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
