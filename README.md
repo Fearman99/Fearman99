@@ -1,4 +1,4 @@
-<h1 align="center">I'm Shivansh Tiwari</h1>
+<h1 align="center">Hi, I'm Shivansh Tiwari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - Projects : [https://github.com/Fearman99](https://github.com/Fearman99)
