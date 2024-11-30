@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Shivansh Tiwari</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- Projects : [https://github.com/Fearman99](https://github.com/Fearman99)
+- Projects : [github.com/Fearman99](https://github.com/Fearman99)
 
 - Skills : **C C++ MySQL HTML5 CSS JavaScript Typescript React.js express.js Node.js Next.js Object Oriented Programming Data Structures and Algorithms**
 
 - E-mail : **shivansh123tiwari@gmail.com**
 
-- Resume :  [https://rb.gy/9lrwih](https://rb.gy/9lrwih)
+- Resume :  [Link](https://acrobat.adobe.com/id/urn:aaid:sc:AP:cb6f90b6-d92e-43b4-b153-8fba9e862d47)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
